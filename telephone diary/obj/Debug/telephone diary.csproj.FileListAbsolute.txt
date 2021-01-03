@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\telephone diary\telephone diary\bin\Debug\telephone diary.exe.config
+C:\Users\DELL\source\repos\telephone diary\telephone diary\bin\Debug\telephone diary.exe
+C:\Users\DELL\source\repos\telephone diary\telephone diary\bin\Debug\telephone diary.pdb
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone_diary.Properties.Resources.resources
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.exe
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone diary.pdb
+C:\Users\DELL\source\repos\telephone diary\telephone diary\obj\Debug\telephone_diary.phone.resources
